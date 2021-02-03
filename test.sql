@@ -752,6 +752,7 @@ ALTER TABLE public.widgets OWNER TO postgres;
 
 COPY public.acl (id, class_type, created_by_email, created_by_tenant_id, created_date, last_modified_by_email, last_modified_by_tenant_id, updated_on, name, tags) FROM stdin;
 baea8af8-5302-4a8e-882c-9f7934b003d8	AccessControlList	shubham2600@gmail.com	0c2d7a7f-5c88-436e-aef6-d8913bf2af8f	2020-11-24 14:19:35.813594+00	shubham2600@gmail.com	0c2d7a7f-5c88-436e-aef6-d8913bf2af8f	2020-11-24 14:19:35.813594+00	viewOnboarding_acl	\N
+baea8af8-5302-4a8e-882c-9f7934b003d8	AccessControlList	shubham2600@gmail.com	0c2d7a7f-5c88-436e-aef6-d8913bf2af8f	2020-11-24 14:19:35.813594+00	shubham2600@gmail.com	0c2d7a7f-5c88-436e-aef6-d8913bf2af8f	2020-11-24 14:19:35.813594+00	viewOnboarding_acl	\N
 \.
 
 
